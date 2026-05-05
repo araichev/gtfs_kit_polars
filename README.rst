@@ -1,11 +1,3 @@
-[!IMPORTANT]
-**This repository has moved.**
-Because GitHub's performance has degraded significantly, this repository has moved to Forgejo. Active development continues at **https://git.disroot.org/araichev/gtfs_kit_polars**.
-This GitHub copy is archived and will not receive updates, issues, or pull requests.
-Please file issues and submit changes on Forgejo.
-
----
-
 GTFS Kit Polars
 ***************
 .. image:: https://github.com/mrcagney/gtfs_kit_polars/actions/workflows/test.yml/badge.svg
