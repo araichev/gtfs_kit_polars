@@ -1,3 +1,12 @@
+[!IMPORTANT]
+
+**This repository has moved to Codeberg, because Github is deteriorating**.
+
+Development continues at **https://codeberg.org/araichev/gtfs_kit_polars**, so please file issues, pull requests, etc. there.
+This GitHub repository is archived.
+
+---
+
 GTFS Kit Polars
 ***************
 .. image:: https://github.com/mrcagney/gtfs_kit_polars/actions/workflows/test.yml/badge.svg
